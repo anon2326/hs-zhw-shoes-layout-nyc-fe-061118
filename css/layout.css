@@ -24,7 +24,7 @@
 
 /* Posititoning Classes */
 #list{
-
+  padding-bottom: 23px;
 }
 
 .columna{
@@ -79,6 +79,6 @@
   margin: 15px 14px;
 }
 
-.leftmost{
+#leftmost{
   margin-left:5px;
 }
