@@ -23,5 +23,62 @@
 }
 
 /* Posititoning Classes */
+#list{
 
+}
 
+.columna{
+  display:inline-block;
+  width:30%;
+}
+
+.columnb{
+  display:inline-block;
+  width:30%;
+}
+
+.columnc{
+  display:inline-block;
+  width:30%;
+}
+
+.columnd{
+  display:inline-block;
+  width:30%;
+  float:left;
+}
+.columne{
+  display:inline-block;
+  width:30%;
+  float:left;
+  margin-left: 15px;
+}
+.columnf{
+  display:inline-block;
+  width:30%;
+  float:left;
+  margin-left: 15px;
+}
+
+.largerthanothers{
+  width:66.66%;
+  vertical-align: top;
+}
+
+.slightlybigger{
+  width:33.33%;
+}
+
+#list{
+  padding: 4.5px;
+  margin-left: 10px;
+}
+
+.deal{
+  margin: auto;
+  margin: 15px 14px;
+}
+
+.leftmost{
+  margin-left:5px;
+}
